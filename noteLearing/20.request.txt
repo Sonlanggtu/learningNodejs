@@ -1,0 +1,7 @@
+- there are options of object requeset:
+1. req.baseUrl
+2. req.cookies
+3. req.route
+4. req.query
+...
+https://expressjs.com/en/api.html#req.param

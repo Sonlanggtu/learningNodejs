@@ -1,0 +1,13 @@
+- res.append
+-res.attachment
+- res.cokie
+- res.clearCokie
+- res.download
+- res.end
+- res.format
+- res.get
+- res.ridirec
+- res.sendfile
+- res.set
+- res.status
+- res.json

@@ -1,0 +1,13 @@
+Stream như 1 dòng chảy, có thể read từ source or write data to a destination.
+
+There are 4 types of streams in nodejs:
+- readable: this stream is used for read operations.
+- writeable: this stream is used for write operations.
+- duplex: this stream can be used for both read and write operations.
+- transform: it is type of duplex stream where the output is computed according to input
+
+there are four events of streams in nodejs:
+- data; this event is fired when there is data available to read
+- end: no more data to read
+- error: push error
+- finsh: finsh stream

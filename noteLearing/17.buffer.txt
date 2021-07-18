@@ -1,0 +1,12 @@
+buffer là bộ đệm tạm thời ở trên ram. khi share file lớn có thể chia nhỏ và push xuống buffer.
+buffer lưu dạng nhị phân
+
+operation buffer:
+- create buffer
+- write to buffer
+- read from buffer
+- convert buffer to json
+- concatenate bufffer
+- compare buffer
+- slice buffer
+- buffer length
